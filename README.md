@@ -4,7 +4,7 @@ Tecnologia: PHP
 Funcionalidades:<br>
 <ul>
   <li>Guardar itens no carrinho.</li>
-  <li>Ecluir itens no carrinho.</li>
+  <li>Excluir itens no carrinho.</li>
   <li>Comprar itens do carrinho.</li>
   <li>Cadastrar itens na loja virtual.</li>
   <li>Login cliente</li>
